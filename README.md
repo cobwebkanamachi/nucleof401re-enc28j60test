@@ -5,6 +5,7 @@ I mingled two works in one.
 
 Please change MYIP, MYDNS, MYGW, MYNETMASK with your designated ones.
 And connect ENC28j60 to NucleoF401RE shown  bellow.
+<PRE>
 ENC   ---   F401RE
 SI          MOSI/D11(PA_7)
 SO          MISO/D12(PA_6)
@@ -72,4 +73,4 @@ Accept-Encoding: gzip, deflate, sdch
 Accept-Language: ja,en-US;q=0.8,en;q=0.6
 
 Echo done.
-
+</PRE>
