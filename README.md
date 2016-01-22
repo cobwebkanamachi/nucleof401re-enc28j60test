@@ -14,7 +14,7 @@ SO          MISO/D12(PA_6)
 SCLK        SCK/D13(PA_5)
 CS          CS/D10(PB_6)
 +5V         external PWR Supp(5V)
-Gnd         external PWR Supp(5V)
+Gnd         external PWR Supp(GND)
 
 I got response show  bellow.
 
