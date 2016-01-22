@@ -2,6 +2,8 @@
 This is an experimental one.
 Based on ArduinoShieldSPI(Mr.Marcelo Barros's) + UIPEthernet(Mr.Hudak's HTTPServer_Echo_ENC28J60).
 I mingled two works in one.
+Please implort ArduinoShiledSPI and UIPEthernet on MBED online compiler, then main.cpp place on it.
+Or Separately import two, then copy and paste new one.
 
 Please change MYIP, MYDNS, MYGW, MYNETMASK with your designated ones.
 And connect ENC28j60 to NucleoF401RE shown  bellow.
