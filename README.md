@@ -3,6 +3,16 @@ This is an experimental one.
 Based on ArduinoShieldSPI(Mr.Marcelo Barros's) + UIPEthernet(Mr.Hudak's HTTPServer_Echo_ENC28J60).
 I mingled two works in one.
 
+Please change MYIP, MYDNS, MYGW, MYNETMASK with your designated ones.
+And connect ENC28j60 to NucleoF401RE shown  bellow.
+ENC   ---   F401RE
+SI          MOSI/D11(PA_7)
+SO          MISO/D12(PA_6)
+SCLK        SCK/D13(PA_5)
+CS          CS/D10(PB_6)
++5V         external PWR Supp(5V)
+Gnd         external PWR Supp(5V)
+
 I got response show  bellow.
 
 Setup SPI ...
