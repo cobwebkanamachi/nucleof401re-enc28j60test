@@ -57,7 +57,7 @@ Host: MYIP
 Connection: keep-alive
 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.13 Safari/537.36
 Accept: */*
-Referer: http://10.10.130.15/
+Referer: http://MYIP/
 Accept-Encoding: gzip, deflate, sdch
 Accept-Language: ja,en-US;q=0.8,en;q=0.6
 
